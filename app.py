@@ -10,3 +10,4 @@ $ ls -a
 
 $ git commit -am "initial commit"
 $ git push
+streamlit run app.py
